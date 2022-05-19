@@ -14,6 +14,8 @@ import javafx.scene.control.*;
 import sample.model.Fiction;
 import sample.model.NonFiction;
 
+import java.awt.*;
+
 public class AddScene extends Scene {
 
     private Scene mPrevScene;
